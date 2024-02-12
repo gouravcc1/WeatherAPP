@@ -1,0 +1,12 @@
+.chardiv {
+  /* margin-left: 20px; */
+  margin: 20px;
+
+  /* height: 14rem; */
+  background-color: rgba(0, 0, 0, 0.6);
+  color: rgb(255, 255, 255);
+  border-radius: 30px;
+  padding: 1rem;
+  font-size: 1.25rem;
+  height: fit-content;
+}
